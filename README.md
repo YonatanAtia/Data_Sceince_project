@@ -10,7 +10,7 @@ The goal was to explore and analyze extensive data on computer games from the St
 
 ### 1. Data Collection (Web Scraping & Crawling)
 - **Tools**: Beautiful Soup
-- **Data Source**: [Steam Store API](https://store.steampowered.com/contenthub/querypaginated/tags/ConcurrentUsers/render/)
+- **Data Source**: [Steam Store Website](https://store.steampowered.com/contenthub/querypaginated/tags/ConcurrentUsers/render/)
 - **Output**: Raw game data scraped from thousands of Steam games
 - **Process**: Automated crawling and scraping of game information including metadata, ratings, pricing, and user statistics
 
