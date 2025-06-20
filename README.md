@@ -104,6 +104,8 @@ This project was developed as part of the [Introduction to Data Science](https:/
 
 - `main_notebook.ipynb` - Main Jupyter notebook containing all project code
 - `games_dataset_final.csv` - Scraped and processed game data
+- `מצגת פרויקט יהל ויונתן.pptx` - Project presentation slides
+- `youtube link.txt` - Link to project video presentation
 - `README.md` - This file
 
 ## Authors
